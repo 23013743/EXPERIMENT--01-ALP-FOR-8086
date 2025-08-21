@@ -1,9 +1,15 @@
 
 # EXPERIMENT--01-ALP-for fundamental arithmetic and logical operations using emu8086
 
+
+
 ## Name : Nirmal N
 ## Roll no : 212223240107
 ## Date of experiment : 21/08/25
+
+
+
+
 
 
 
