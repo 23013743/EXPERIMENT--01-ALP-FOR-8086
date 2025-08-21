@@ -1,10 +1,9 @@
 
 # EXPERIMENT--01-ALP-for fundamental arithmetic and logical operations using emu8086
-Name : Nirmal N
-Roll no : 212223240107
-Date of experiment : 21/08/25
 
-
+## Name : Nirmal N
+## Roll no : 212223240107
+## Date of experiment : 21/08/25
 
 
 
@@ -106,7 +105,7 @@ ret
 ## Output 
 
 
-<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/3c4c7ea6-0431-4e30-b066-6a5a3deaf419" />
+<img width="1278" height="690" alt="1" src="https://github.com/user-attachments/assets/df363905-f45c-4916-b336-310a68da172a" />
 
 
 ## Program for logical operations
@@ -137,9 +136,7 @@ ret
 ```
 ## Output
 
-<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/9b66a337-6e99-4a22-9b75-0ec84b76d993" />
-
-
+<img width="1260" height="679" alt="Screenshot 2025-08-21 093602" src="https://github.com/user-attachments/assets/ac6e0dc5-abe7-48c0-a7ff-ddf3de26d128" />
 
 
 ## Result :
